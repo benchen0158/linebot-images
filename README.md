@@ -22,4 +22,4 @@ LINE bot（linebot-nas）使用的圖庫。
 | gold | `Gold/gold_{:03d}.jpg` | 239 |
 | mochi | `Mochi/mochi_{:03d}.jpg` | 173 |
 | pokemon | `Pokemon/pokemon_{:04d}.png` | 1025 |
-| figurine | `Figurine/figurine_{:03d}.jpg` | 110 |
+| figurine | `Figurine/figurine_{:03d}.jpg` | 302 |
