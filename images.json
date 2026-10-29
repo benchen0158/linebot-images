@@ -1,0 +1,69 @@
+{
+  "images": {
+    "SR": {
+      "path": "Drawing/SR_{:03d}.jpg",
+      "count": 98
+    },
+    "SSR": {
+      "path": "Drawing/SSR_{:03d}.jpg",
+      "count": 51
+    },
+    "draw": {
+      "path": "OtherDrawing/draw_{:03d}.jpg",
+      "count": 389
+    },
+    "bigbusted": {
+      "path": "BigBusted/bigbusted_{:03d}.jpg",
+      "count": 97
+    },
+    "meme": {
+      "path": "meme/meme_{:03d}.jpg",
+      "count": 132
+    },
+    "goodmorning": {
+      "path": "MemeImage/goodmorning_{:03d}.jpg",
+      "count": 22
+    },
+    "questionmark": {
+      "path": "MemeImage/questionmark_{:03d}.jpg",
+      "count": 17
+    },
+    "dot": {
+      "path": "MemeImage/dot_{:03d}.jpg",
+      "count": 11
+    },
+    "dumbfounded": {
+      "path": "MemeImage/dumbfounded_{:03d}.jpg",
+      "count": 5
+    },
+    "money": {
+      "path": "MoneyMoney/money_{:03d}.jpg",
+      "count": 526
+    },
+    "many": {
+      "path": "ManyMany/many_{:03d}.jpg",
+      "count": 478
+    },
+    "moneymany": {
+      "path": "MoneyMany/moneymany_{:03d}.jpg",
+      "count": 396
+    },
+    "gold": {
+      "path": "Gold/gold_{:03d}.jpg",
+      "count": 239
+    },
+    "mochi": {
+      "path": "Mochi/mochi_{:03d}.jpg",
+      "count": 173
+    },
+    "pokemon": {
+      "path": "Pokemon/pokemon_{:04d}.png",
+      "count": 1025
+    },
+    "figurine": {
+      "path": "Figurine/figurine_{:03d}.jpg",
+      "count": 110
+    }
+  },
+  "pokemon_json": "Pokemon/Pokemon.json"
+}
