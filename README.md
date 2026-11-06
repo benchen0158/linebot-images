@@ -9,7 +9,7 @@ LINE bot（linebot-nas）使用的圖庫。
 |---|---|---|
 | SR | `Drawing/SR_{:03d}.jpg` | 98 |
 | SSR | `Drawing/SSR_{:03d}.jpg` | 51 |
-| draw | `OtherDrawing/draw_{:03d}.jpg` | 389 |
+| draw | `OtherDrawing/draw_{:03d}.jpg` | 394 |
 | bigbusted | `BigBusted/bigbusted_{:03d}.jpg` | 97 |
 | meme | `meme/meme_{:03d}.jpg` | 132 |
 | goodmorning | `MemeImage/goodmorning_{:03d}.jpg` | 22 |
@@ -19,7 +19,7 @@ LINE bot（linebot-nas）使用的圖庫。
 | money | `MoneyMoney/money_{:03d}.jpg` | 526 |
 | many | `ManyMany/many_{:03d}.jpg` | 478 |
 | moneymany | `MoneyMany/moneymany_{:03d}.jpg` | 396 |
-| gold | `Gold/gold_{:03d}.jpg` | 239 |
+| gold | `Gold/gold_{:03d}.jpg` | 260 |
 | mochi | `Mochi/mochi_{:03d}.jpg` | 173 |
 | pokemon | `Pokemon/pokemon_{:04d}.png` | 1025 |
 | figurine | `Figurine/figurine_{:03d}.jpg` | 302 |
